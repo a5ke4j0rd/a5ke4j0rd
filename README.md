@@ -10,7 +10,7 @@ The world of technology 💻 is evolving more and more, so every day I learn new
 - 🖥 &nbsp; I'm learning **python** and working out **c# programming**, also **produsing music** for indie game projects
 - 🌎 &nbsp; I'm living in St. Peterburg
 - 🌱 &nbsp; I'm currently working indie game project
-- 🎸 &nbsp; I love playing guitar and listening to metal
+- 🎸 &nbsp; I love playing guitar and listening metal
 - 🎲 &nbsp; I often spend my evenings playing D&D
 - 🌳 &nbsp; I love walks in the forest
 
