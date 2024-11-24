@@ -1,7 +1,8 @@
 <img
   class="fit-picture"
   src="https://i.pinimg.com/originals/0d/3f/62/0d3f62ef556000135d51aeff541aba26.jpg"
-  size="500"
+  height="400"
+  weight="600"
   alt="Forest" />
   
 - Hi, my name is Kriwjar Askefjord
