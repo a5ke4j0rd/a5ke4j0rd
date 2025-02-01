@@ -1,4 +1,4 @@
-![Header image](https://github.com/Askefjord/Askefjord/blob/main/Title.png)
+<!-- ![Header image](https://github.com/Askefjord/Askefjord/blob/main/Title.png) -->
 
 <h3 align="center"> 
 I am a versality and easily adapt to different hats (Game Dev🎮, App Dev 📱, also UX/UI Designer 🎨). 
