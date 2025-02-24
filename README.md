@@ -31,7 +31,7 @@
 <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img align="left" alt="Illustrator" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"></a>
 <a href="https://www.figma.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="Figma" height ="42px"></a> -->
 
-### ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀📊 Github Stats:
+### ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀📊 Github Stats:
 ⠀⠀![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Askefjord&show_icons=true&theme=dark&bg_color=0A0E12&hide_border=true&border_color=1d2026&border_radius=5&text_bold=true&hide_title=true)
 ⠀⠀![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Askefjord&layout=compact&theme=dark&bg_color=0A0E12&hide_border=true&border_color=1d2026&border_radius=5&text_bold=true&langs_count=3)
 
