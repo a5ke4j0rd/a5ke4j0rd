@@ -1,4 +1,4 @@
-<p >
+<p align="center">
   <img src="https://github.com/Askefjord/Askefjord/blob/main/logo.gif">
 </p>
 
